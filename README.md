@@ -46,6 +46,7 @@ Wenn A* das Ziel erreicht
 kann man sicher sein,
 dass kein anderer Weg günstiger ist.
 
+
 Kurz gesagt:
 Wenn die Heuristik gut und zulässig ist,
 findet A* immer den besten Weg 
